@@ -10,3 +10,6 @@ Real-time vehicle counting can effectively improve performance of traffic contro
 
 # VEHICLE IN THE LINE
 ![image](https://user-images.githubusercontent.com/56585669/155889913-b66a192d-0435-4465-9d09-090571ae078f.png)
+
+# Performance Graph
+![image](https://user-images.githubusercontent.com/56585669/156996837-c4203259-2a9d-45b2-ae10-f0d2f6843ed9.png)
